@@ -3,3 +3,5 @@ Currently, Kaggle is holding a competition on prediction of molecular properties
 I've started a python notebook to implement various models. As the trained and test data is above 25MB, please download it from the below link, 
 kaggle competitions download -c champs-scalar-coupling
 Also, I've used python 3.6 and mentioned all the required repositories in requirement.txt
+
+This notebook contains three models used for predicting the molecular properties.
